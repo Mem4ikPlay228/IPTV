@@ -2,11 +2,11 @@
 #PLAYLIST:IPTVru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="russia-1" tvg-logo="https://iptvx.one/picons/rossia1.png" ,Россия 1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-
 #EXTINF:-1 tvg-id="pervy_kanal" tvg-logo="https://iptvx.one/picons/pervy.png" ,Первый канал
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=PoT7-okQsxdpSY7uAPIjcQ&e=2082811666&scheme=https
+
+#EXTINF:-1 tvg-id="russia-1" tvg-logo="https://iptvx.one/picons/rossia1.png" ,Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="russia-24" tvg-logo="https://iptvx.one/picons/rossia24.png" ,Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
@@ -44,7 +44,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="belarus-5" tvg-logo="https://iptvx.one/picons/belarus5.png" ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="belarus-24" tvg-logo="https://iptvx.one/picons/belarus3.png" ,Беларусь 24
+#EXTINF:-1 tvg-id="belarus-24" tvg-logo="https://iptvx.one/picons/belarus24.png" ,Беларусь 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ont" tvg-logo="https://raw.githubusercontent.com/Mem4ikPlay228/IPTV/main/tvlogos/ont.svg.png" ,ОНТ
@@ -52,3 +52,6 @@ http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/2182/index.m3u8
 
 #EXTINF:-1 tvg-id="stv" tvg-logo="https://raw.githubusercontent.com/Mem4ikPlay228/IPTV/main/tvlogos/stv.svg.png" ,СТВ
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="retv" tvg-logo="https://raw.githubusercontent.com/Mem4ikPlay228/IPTV/main/tvlogos/retv.png" ,ReTV
+https://retv2132.bstrm.net/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
