@@ -36,10 +36,10 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1701491008_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus-2" tvg-logo="https://iptvx.one/picons/belarus2.png" ,Беларусь 2
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2/playlist.m3u8
+https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus2.smil/chunklist_w1701491008_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus-3" tvg-logo="https://iptvx.one/picons/belarus3.png" ,Беларусь 3
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3/playlist.m3u8
+https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3/chunklist_w1701491008_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="belarus-5" tvg-logo="https://iptvx.one/picons/belarus5.png" ,Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
