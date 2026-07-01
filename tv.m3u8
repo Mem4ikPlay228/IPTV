@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
-#PLAYLIST:IPTVru
+#PLAYLIST:IPTVplaylist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="pervy_kanal" tvg-logo="https://iptvx.one/picons/pervy.png" ,Первый канал
@@ -26,11 +26,23 @@ http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" ,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
+#EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons.otr.png" ,ОТР
+https://adpnetworkhd-cmd.github.io/iptv/OTRHD_Alt.m3u8
+
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" ,СТС
 http://94.230.128.107:8080/CTC/index.m3u8
 
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" ,ТВ Центр
+https://adpnetworkhd-cmd.github.io/iptv/TVCentrHD.m3u8
+
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" ,Мир
+https://adpnetworkhd-cmd.github.io/iptv/MirHD_Moskva.m3u8
+
+#EXTINF:-1 tvg-id="mir24" tvg-logo="https://iptvx.one/picons/mir24.png" ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png" ,Рен ТВ
+https://adpnetworkhd-cmd.github.io/iptv/RENTVHD_Moskva.m3u8
 
 #EXTINF:-1 tvg-id="belarus-1" tvg-logo="https://iptvx.one/picons/belarus1.png" ,Беларусь 1
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1701491008_b5160000_sleng.m3u8
