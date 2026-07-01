@@ -27,13 +27,13 @@ http://94.230.128.107:8080/5_kanal/index.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons.otr.png" ,ОТР
-https://adpnetworkhd-cmd.github.io/iptv/OTRHD_Alt.m3u8
+http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/20018/index.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" ,СТС
 http://94.230.128.107:8080/CTC/index.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" ,ТВ Центр
-https://adpnetworkhd-cmd.github.io/iptv/TVCentrHD.m3u8
+https://cdn.telecloud.tv/CH4603/tracks-v1a1/mono.ts.m3u8?token=LIVE_B_EPb47QrFaP8fy7DB2bvA2wzPErAipwzL
 
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" ,Мир
 https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=6aBxGGIpJZOP1298Uu-POA&e=2081939596&scheme=https
@@ -42,7 +42,7 @@ https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=6a
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png" ,Рен ТВ
-https://adpnetworkhd-cmd.github.io/iptv/RENTVHD_Moskva.m3u8
+https://cdn.telecloud.tv/CH189/tracks-v1a1/mono.ts.m3u8?token=LIVE_B_EPb47QrFaP8fy7DB2bvA2wzPErAipwzL
 
 #EXTINF:-1 tvg-id="belarus-1" tvg-logo="https://iptvx.one/picons/belarus1.png" ,Беларусь 1
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w1701491008_b5160000_sleng.m3u8
