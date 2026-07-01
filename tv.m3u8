@@ -14,6 +14,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" ,НТВ
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=av9OcRabU8AER2NiRBDnMg&e=2082811775&scheme=https
 
+#EXTINF:-1 tvg-id="ntvhit" tvg-logo="https://raw.githubusercontent.com/Mem4ikPlay228/IPTV/main/tvlogos/ntvhit.png" ,НТВ Хит
+https://cdn.telecloud.tv/CH2105/tracks-v1a1/mono.ts.m3u8?token=LIVE_B_EPb47QrFaP8fy7DB2bvA2wzPErAipwzL
+
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" ,ТНТ
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=I6BSp9Jwy0cGLGdMWuSrow&e=2082811486&scheme=https
 
@@ -30,7 +33,13 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/20018/index.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" ,СТС
-http://94.230.128.107:8080/CTC/index.m3u8
+https://cdn.telecloud.tv/CH3789/tracks-v1a1/mono.ts.m3u8?token=LIVE_B_EPb47QrFaP8fy7DB2bvA2wzPErAipwzL
+
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" ,Пятница!
+https://cdn.telecloud.tv/CH17/tracks-v1a1/mono.ts.m3u8?token=LIVE_B_EPb47QrFaP8fy7DB2bvA2wzPErAipwzL
+
+#EXTINF:-1 tvg-id="match" tvg-logo="https://iptvx.one/picons/match.png" ,Матч!
+https://cdn.telecloud.tv/CH3859/tracks-v1a1/mono.ts.m3u8?token=LIVE_B_EPb47QrFaP8fy7DB2bvA2wzPErAipwzL
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" ,ТВ Центр
 https://cdn.telecloud.tv/CH4603/tracks-v1a1/mono.ts.m3u8?token=LIVE_B_EPb47QrFaP8fy7DB2bvA2wzPErAipwzL
@@ -64,6 +73,9 @@ http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/2182/index.m3u8
 
 #EXTINF:-1 tvg-id="stv" tvg-logo="https://raw.githubusercontent.com/Mem4ikPlay228/IPTV/main/tvlogos/stv.svg.png" ,СТВ
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ltv1" tvg-logo="https://raw.githubusercontent.com/Mem4ikPlay228/IPTV/main/tvlogos/ltv1.svg.png" ,LTV1
+https://cdn.telecloud.tv/CH977/tracks-v1a1/mono.ts.m3u8?token=LIVE_B_EPb47QrFaP8fy7DB2bvA2wzPErAipwzL
 
 #EXTINF:-1 tvg-id="retv" tvg-logo="https://raw.githubusercontent.com/Mem4ikPlay228/IPTV/main/tvlogos/retv.png" ,ReTV
 https://retv2132.bstrm.net/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
