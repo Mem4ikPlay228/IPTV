@@ -29,7 +29,7 @@ http://94.230.128.107:8080/5_kanal/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" ,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons.otr.png" ,ОТР
+#EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" ,ОТР
 http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/20018/index.m3u8
 
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" ,СТС
