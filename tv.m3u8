@@ -44,6 +44,9 @@ https://cdn.telecloud.tv/CH3859/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" ,ТВ Центр
 https://cdn.telecloud.tv/CH4603/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" ,Спас
+https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" ,Мир
 https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=6aBxGGIpJZOP1298Uu-POA&e=2081939596&scheme=https
 
